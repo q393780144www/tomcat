@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>angry_</key>
+	<string>26</string>
+	<key>cymbal_</key>
+	<string>13</string>
+	<key>drink_</key>
+	<string>81</string>
+	<key>eat_</key>
+	<string>40</string>
+	<key>knockout_</key>
+	<string>81</string>
+	<key>fart_</key>
+	<string>28</string>
+	<key>foot_left_</key>
+	<string>30</string>
+	<key>foot_right_</key>
+	<string>30</string>
+	<key>pie_</key>
+	<string>24</string>
+	<key>scratch_</key>
+	<string>56</string>
+	<key>stomach_</key>
+	<string>34</string>
+</dict>
+</plist>
